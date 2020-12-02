@@ -11,7 +11,7 @@ The goal is to analyze the mushrooms (mainly in regards to whether they're edibl
 
 ## Exploratory Data Analysis
 
-I furthermore explored what variables seem to be most connected to edibility based on simple visualization. For example, it turns out that if a mushroom has a 'vaginata', it is toxic. That is due to the mushroom belonging to the Amanita genus. 
+I explored what variables seem to be most connected to edibility based on simple visualization. For example, it turns out that if a mushroom has a 'vaginata', it is toxic. That is due to the mushroom belonging to the Amanita genus. 
 
 Furthermore, I confirmed the folk knowledge that most mushrooms are growing in autumn, and that the best bet is any type of forest (though mixed forests seem to yield the most benefit).
 
@@ -21,4 +21,4 @@ Furthermore, it is apparent that mushroom edibility is largely determined by whi
 
 It was quite difficult to do any predictive modelling with such a small dataset. 
 
-Some simple feature engineering had to be done, simply because some variables had very low frequency (i.e. just one mushroom had blue cap, etc.) and were therefore excluded. 
+-tbd
